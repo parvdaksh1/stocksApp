@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firstApp",
-    "slug": "firstApp",
+    "name": "stocksApp",
+    "slug": "stocksApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
