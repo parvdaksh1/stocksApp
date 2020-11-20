@@ -3,7 +3,7 @@
 ### Used expo to create react-native project, so that one can view the app in browser also.
 
 
-### Man Hours Spent : 3 Hours
+### Man Hours Spent : 4 Hours
 
 # Usage
 
